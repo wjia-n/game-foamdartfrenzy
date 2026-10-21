@@ -1,8 +1,7 @@
 name: foamdartfrenzy
 description: "Foam Dart Frenzy - Bounce soft darts off walls into targets"
 publish_to: 'none'
-version: 1.0.0+1
-
+version: 1.0.0+2
 environment:
   sdk: ^3.13.5
 
